@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-transfers-and-replenishment-filament",
+  "description": "Transfers and Replenishment Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability030084a296bb\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-transfers-and-replenishment-filament"
+    }
+  }
+}

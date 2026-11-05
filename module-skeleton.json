@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-transfers-and-replenishment-filament",
+  "capabilityKey": "planned:ecommerce:transfers-and-replenishment",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-transfers-and-replenishment-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "presentationPlan": "projects/ecommerce/filament/transfers-and-replenishment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
